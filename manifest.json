@@ -1,0 +1,23 @@
+{
+    "name": "oran_ride",
+    "short_name": "Oran Ride",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#012C22",
+    "theme_color": "#10B981",
+    "description": "Algerian Fair-Fare inDrive-style taxi app for Oran.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

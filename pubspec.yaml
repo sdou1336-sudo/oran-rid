@@ -1,0 +1,40 @@
+name: oran_ride
+description: Modern inDrive-style taxi bidding application for Oran, Algeria.
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase Core and Integration Services
+  firebase_core: ^2.24.0
+  firebase_auth: ^4.15.3
+  cloud_firestore: ^4.13.3
+  firebase_messaging: ^14.7.10
+
+  # Maps, Geolocation & Routing
+  google_maps_flutter: ^2.5.3
+  geolocator: ^10.1.0
+  geoflutterfire2: ^2.2.2
+  http: ^1.1.0
+
+  # State Management & Extras
+  provider: ^6.1.1
+  flutter_spinkit: ^5.2.0
+  uuid: ^4.3.3
+  flutter_local_notifications: ^16.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/lang/ar.json
+    - assets/lang/fr.json

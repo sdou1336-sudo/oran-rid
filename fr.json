@@ -1,0 +1,14 @@
+{
+  "app_name": "Oran Ride",
+  "welcome_title": "Bienvenue sur Oran Ride",
+  "login_btn": "Se Connecter",
+  "register_btn": "S'enregistrer",
+  "phone_label": "Numéro de téléphone",
+  "name_label": "Nom complet",
+  "offer_fare": "Proposer votre tarif",
+  "broadcast_bidding": "Diffuser l'offre",
+  "driver_counter": "Contre-proposition",
+  "accept_offer": "Accepter l'offre",
+  "status_arriving": "Le capitaine arrive",
+  "status_completed": "Course terminée avec succès"
+}

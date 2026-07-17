@@ -1,0 +1,14 @@
+{
+  "app_name": "وهران رايد",
+  "welcome_title": "أهلاً بك في وهران رايد",
+  "login_btn": "تسجيل الدخول",
+  "register_btn": "حساب جديد",
+  "phone_label": "رقم الهاتف",
+  "name_label": "الاسم الكامل",
+  "offer_fare": "اقترح سعرك",
+  "broadcast_bidding": "إرسال عرض السعر",
+  "driver_counter": "عرض الكابتن",
+  "accept_offer": "قبول العرض",
+  "status_arriving": "الكابتن قادم إليك",
+  "status_completed": "تمت الرحلة بنجاح"
+}
